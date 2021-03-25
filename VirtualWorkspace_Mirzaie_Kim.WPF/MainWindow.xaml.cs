@@ -23,7 +23,7 @@ namespace VirtualWorkspace_Mirzaie_Kim.WPF
         public MainWindow()
         {
             InitializeComponent();
-            MessageBox();
+            
         }
     }
 }
